@@ -1,3 +1,4 @@
+//Ujratoltve, javitott verzio
 #include "std_lib_facilities.h"
 #include <stdio.h>           //0.090909
 #include <cmath>            //0.545455
