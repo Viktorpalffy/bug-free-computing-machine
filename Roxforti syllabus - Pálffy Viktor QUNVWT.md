@@ -1,6 +1,6 @@
 Repüléstan
 ====================
-![Placeholder image](https://vignette.wikia.nocookie.net/harrypotter/images/0/0f/Nimbus_2000_1.jpg/revision/latest?cb=20150530185551 "Placeholder image")
+![Placeholder image](https://vignette.wikia.nocookie.net/harrypotter/images/0/0f/Nimbus_2000_1.jpg/revision/latest?cb=20150530185551 "Placeholder image")  
 **Tárgyfelelős:** _Rolanda Hooch_  
 **Kredit:** _6_  
 **Heti óraszám:** _2 elmélet + 4 gyakorlat_  
@@ -35,4 +35,4 @@ A tárgy célja, hogy a diákok elsajátítsák a repülés minden fortélyát, 
 
 
 
-[link text](https://harrypotter.fandom.com/wiki/Nimbus_2000 "A Nimbus 2000")
+[A Nimbus 2000](https://harrypotter.fandom.com/wiki/Nimbus_2000 "A Nimbus 2000")
