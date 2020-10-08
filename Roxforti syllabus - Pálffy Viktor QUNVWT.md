@@ -1,6 +1,6 @@
 Repüléstan
 ====================
-![Placeholder image](https://vignette.wikia.nocookie.net/harrypotter/images/0/0f/Nimbus_2000_1.jpg/revision/latest?cb=20150530185551 "Placeholder image")  
+![Placeholder image](https://vignette.wikia.nocookie.net/harrypotter/images/0/0f/Nimbus_2000_1.jpg/revision/latest?cb=20150530185551 "Nimbus 2000")  
 **Tárgyfelelős:** _Rolanda Hooch_  
 **Kredit:** _6_  
 **Heti óraszám:** _2 elmélet + 4 gyakorlat_  
@@ -33,6 +33,15 @@ A tárgy célja, hogy a diákok elsajátítsák a repülés minden fortélyát, 
 8. Haladó seprűkön közös játék.
 9. Második nyílthelyi "dolgozat".
 
+A tárgy teljesítésének feltétele:
+-----------
+Két sikeres nyílthelyi dolgozat (5-5 elkapott labda legalább) teljesítésével megszerezhető a gyakorlati jegy.
 
+### Jegyek:
+* 0-9 elkapott labda: 1
+* 10-12 elkapott labda: 2
+* 13-15 elkapott labda: 3
+* 16-18 elkapott labda: 4
+* 19-20 elkapott labda: 5
 
 [A Nimbus 2000](https://harrypotter.fandom.com/wiki/Nimbus_2000 "A Nimbus 2000")
