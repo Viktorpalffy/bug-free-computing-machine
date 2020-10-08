@@ -1,15 +1,11 @@
 Repüléstan
 ====================
-**Tárgyfelelős:** Rolanda Hooch
------
-**Kredit:** 6
-------
-**Heti óraszám:** 2 elmélet + 4 gyakorlat
--------
-**Tárgy típusa:** Kötelező
----------
-**Követelmény:** Gyakorlati jegy
--------
+**Tárgyfelelős:** Rolanda Hooch  
+**Kredit:** 6  
+**Heti óraszám:** 2 elmélet + 4 gyakorlat  
+**Tárgy típusa:** Kötelező  
+**Követelmény:** Gyakorlati jegy  
+
 Leírás
 ----------
 
